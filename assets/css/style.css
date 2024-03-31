@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  margin: 150px;
+  background-color: #d6bee1;
+}
+
+h1 {
+  border-bottom: 1px solid #747474;
+  font-family: "Freehand", cursive;
+  font-weight: 400;
+  font-size: 70px;
+  color: #4c2558;
+}
+
+#tarea {
+  padding: 10px;
+}
+
+#añadirTarea {
+  padding: 10px;
+  background: #583e62;
+  color: white;
+}
+
+.infoTotal {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  padding-top: 30px;
+}
